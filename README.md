@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Amran110
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning html/css/javascript
